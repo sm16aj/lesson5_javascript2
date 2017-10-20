@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 19, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Shira Menaged)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(To create a working expense calculator for estimating tax bracket and rate for the year 2017 depending on the status the user files as.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Working with loops.)
+2. (Creating else if statements.)
+3. (Writing code for the 'clear button'.)
 
