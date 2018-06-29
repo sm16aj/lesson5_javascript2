@@ -4,7 +4,7 @@
 Web Application Development
 
 ### Assignment Date:  
-(October 19, 2017)
+(June 29, 2018)
 
 ### Student Name:  
 (Shira Menaged)
@@ -13,8 +13,7 @@ Web Application Development
 (To create a working expense calculator for estimating tax bracket and rate for the year 2017 depending on the status the user files as.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/sm16aj/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
 1. (Working with loops.)
